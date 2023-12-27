@@ -45,3 +45,6 @@ https://github.com/yosanyu/RomUploader
 ## ModbusClient
 https://github.com/yosanyu/ModbusClient  
 使用pymodbus獲取PLC離散輸入資料並且藉由TCP將資料轉送至unreal engine程式。  
+## Face-Recognition
+https://github.com/yosanyu/Face-Recognition  
+使用歐氏距離做人臉辨識。
