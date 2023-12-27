@@ -2,6 +2,12 @@
 ## Taiwan-ETF-Constituent-Statistics
 https://github.com/yosanyu/Taiwan-ETF-Constituent-Statistics  
 用於統計台灣各家投信所出的國內股票型ETF中成分股的出現次數的專案。
+## ue4_code
+https://github.com/yosanyu/ue4_code  
+自己寫的ue4小專案。  
+## homework
+https://github.com/yosanyu/homework  
+大學作業/課堂專題  
 ## TCPServer
 https://github.com/yosanyu/TCPServer  
 用於遊戲中，不同伺服器之間可藉由TCP Server進行資料的傳遞。
